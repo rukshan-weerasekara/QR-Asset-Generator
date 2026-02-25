@@ -3,7 +3,7 @@
 A professional utility for creative technologists to generate brand-aligned QR codes. Unlike standard generators, this tool allows for precise hexadecimal color mapping and high error-correction density.
 
 ## 🔗 Live Demo
-Check out the live app here: [https://your-qr-app-link.streamlit.app/](https://your-qr-app-link.streamlit.app/)
+Check out the live app here: [https://qr-asset-generator-igxcns74j6lplujwvpbc6b.streamlit.app/] (https://qr-asset-generator-igxcns74j6lplujwvpbc6b.streamlit.app/)
 
 ## 🚀 Project Overview
 In modern advertising (like your work with **ACL or BOC**), consistency is key. This tool automates the creation of QR assets that integrate seamlessly into TVCs, social media banners, and print material.
